@@ -1,3 +1,3 @@
 # Product-Landing-Page
 
-🔗 https://github.com/vikash-08/Product-Landing-Page.git
+🔗 https://vikash-08.github.io/Product-Landing-Page/
